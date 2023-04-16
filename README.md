@@ -1,10 +1,10 @@
-Welcome to my GitHub, where the code is as secure as a bank vault and as smooth as butter!
-Hello there
 
 Greetings, fellow tech enthusiasts! If you're looking for a front-end developer with a passion for cybersecurity and a knack for making code as easy to navigate as a bowl of spaghetti, you've come to the right place.
 
 ![Dancing cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
+
+🤕 Bad designs hurt, so does bad code 🤢🤮
 
 
 Who am I?
