@@ -26,6 +26,10 @@ How can you reach me?
 You can find me on GitHub, LinkedIn, or Twitter, where I'm always happy to connect with fellow techies and collaborate on exciting new projects. If you need a technical problem solved or just want to swap coding puns, I'm your guy.
 
 Thanks for stopping by!
-Thank you for visiting
 
-I hope you enjoy exploring my GitHub page and finding new and exciting ways to push the boundaries of technology. Remember, the key to success is not just about keeping up with the latest trends but about innovating and having fun along the way. So let's get coding, and may your projects be as successful as they are hilarious!
+<!-- Add social media account buttons with logos and links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-profile-url/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/your-profile-url"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://github.com/your-profile-url"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
