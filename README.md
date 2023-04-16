@@ -3,7 +3,7 @@ Hello there
 
 Greetings, fellow tech enthusiasts! If you're looking for a front-end developer with a passion for cybersecurity and a knack for making code as easy to navigate as a bowl of spaghetti, you've come to the right place.
 
-Who am I?
+![Dancing cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 Who am I?
 
 I'm a technical wizard, a web design ninja, and a cybersecurity guru. I speak fluent HTML, CSS, and JavaScript, and can navigate my way through networks and firewalls like a pro. I love to tinker with code and find innovative ways to solve complex technical challenges.
