@@ -29,7 +29,7 @@ Thanks for stopping by!
 
 <!-- Add social media account buttons with logos and links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile-url/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mohamed-adil-1b172b1a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/your-profile-url"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://github.com/your-profile-url"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
