@@ -19,7 +19,11 @@ What will you find here?
 ![alt text](https://media.giphy.com/media/l2JhORT5IFnj6ioko/giphy.gif)
 
 Here, you'll find a treasure trove of technical projects, ranging from simple web applications to complex cybersecurity simulations. My repository is filled with code snippets, custom libraries, and innovative techniques to make your coding experience as smooth as butter. And don't worry, my code is as secure as a bank vault, so you can trust that your data is in good hands.
+
 ![alt text](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
+
+
+
 
 How can you reach me?
 
